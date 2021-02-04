@@ -1,6 +1,10 @@
 ### 'SUP?', I'm Shubham Kumar - aka [viki] 👋
 
+<<<<<<< HEAD
 ## a noob!! 
+=======
+## Fortuitously Noob!! 
+>>>>>>> 1258de23f2914aabb4b50df8ab6001deb8d822ba
 
 - 🔭 Upcoming Masters student. 
 - 🌱 I’m currently learning everything.

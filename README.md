@@ -1,6 +1,6 @@
 ### 'SUP?', I'm Shubham Kumar - aka [viki] 👋
 
-## I'm a noob!! 
+## a noob!! 
 
 - 🔭 Upcoming Masters student. 
 - 🌱 I’m currently learning everything.
@@ -43,6 +43,17 @@
 
 <br />
 <br />
+
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...]
+
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr

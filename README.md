@@ -54,19 +54,6 @@ WORK IN PROGRESS......
 ➡️ [more videos...]
 
 
-<details>
-  
-  <summary>:zap: GitHub Stats</summary>
-  
-  
-  [![Shubham's GitHub stats](https://shubham-bit.vercel.app/api?username=shubham-bit)](https://github.com/shubham-bit/github-readme-stats)
-
-
-</details>
-
-  
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-git-master.shubham-bit.vercel.app/api?username=shubham-bit&show_icons=true&hide_border=true" />
-
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr

@@ -55,7 +55,7 @@
   
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.shubham-bit.vercel.app/api?username=shubham-bit&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-git-master.shubham-bit.vercel.app/api?username=shubham-bit&show_icons=true&hide_border=true" />
 
 </details>
 

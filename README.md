@@ -15,7 +15,9 @@
 ### Connect with me:
 
 WORK IN PROGRESS......
-
+https://img.shields.io/badge/Instagram-shu__ubb-brightgreen
+https://img.shields.io/badge/Twitter-shubham406-blue
+file:///C:/Users/kshub/Downloads/twitter.svg
 
 
 <br />

@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-hazel-eta.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shubham-bit's GitHub Stats" src="https://github-readme-stats-hazel-eta.vercel.app/api?username=shubham-bit&show_icons=true&hide_border=true" />
 
 </details>
 

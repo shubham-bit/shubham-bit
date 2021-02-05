@@ -1,4 +1,4 @@
-### 'NAMASTE 🙏🏻', I'm Shubham Kumar - [viki] 🇮🇳
+### 'NAMASTE 🙏🏻', I'm Shubham Kumar [🇮🇳]
 
 ## Fortuitously Noob!! :trollface:
 

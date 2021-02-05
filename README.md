@@ -54,6 +54,14 @@
 ➡️ [more videos...]
 
 
+<details>
+  <summary>:zap:Github stats</summary>
+  
+  <img align="left" alt="ShubhamKumar's GitHub Stats" src="https://ithub-readme-stats-hazel-eta.vercel.app/api?username=shubham-bit&show_icons=true&hide_border=true" />
+  
+  </details>
+
+
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr

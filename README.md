@@ -1,7 +1,7 @@
 ### 'NAMASTE 🙏🏻', I'm Shubham Kumar [🇮🇳]
 
-## Fortuitously Noob!! :trollface:
-
+## Fortuitously Noob!!
+                       :trollface:
 - 🔭 Upcoming Masters student. 
 - 🌱 I’m currently learning everything.
 - 👯 hope to connect with you in a more humble way. aye! 

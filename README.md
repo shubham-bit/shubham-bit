@@ -1,6 +1,6 @@
-### 'SUP?', I'm Shubham Kumar - aka [viki] 👋
+### 'NAMASTE 🙏🏻', I'm Shubham Kumar - [viki] 🇮🇳
 
-## Fortuitously Noob!! 
+## Fortuitously Noob!! :trollface:
 
 - 🔭 Upcoming Masters student. 
 - 🌱 I’m currently learning everything.

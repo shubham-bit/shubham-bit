@@ -16,7 +16,7 @@
 
 WORK IN PROGRESS......
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=shubham406)
+
 
 <br />
 

@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-WORK IN PROGRESS......
+WORK IN PROGRESS.......
 
 
 

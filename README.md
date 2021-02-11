@@ -14,12 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/channel/UCZXeBGGROZG8V6GIhQdGSwg" | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="shubham-bit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCZXeBGGROZG8V6GIhQdGSwg]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
 
 
 
-<br />
 
 ### Languages and Tools:
 

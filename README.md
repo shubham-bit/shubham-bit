@@ -20,7 +20,7 @@
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 
 
-
+<br />
 
 ### Languages and Tools:
 

@@ -2,11 +2,11 @@
 
 ## Fortuitously Noob!! :trollface:
 
-- 🔭 Upcoming Masters student. 
-- 🌱 I’m currently learning everything.
-- 👯 hope to connect with you in a more humble way. aye! 
-- 🥅 2021 Goals: Get Advance in the field of Data Science.
-- ⚡ Elixir : My pup and my Guitar. 
+- 🔭 Upcoming Masters student 
+- 🌱 I’m currently learning everything
+- 👯 hope to connect with you in a more humble way! 
+- 🥅 2021 Goals: Get Advance in the field of Data Science
+- ⚡ Elixir : My pup and my Guitar 
 
 ### Spotify Playing 🎧
 

@@ -1,6 +1,5 @@
-### 'NAMASTE 🙏🏻', I'm Shubham Kumar [🇮🇳]
+### 'NAMASTE 🙏🏻', I'm Shubham Kumar
 
-## Fortuitously Noob!! :trollface:
 
 - 🔭 Upcoming Masters student 
 - 🌱 I’m currently learning everything

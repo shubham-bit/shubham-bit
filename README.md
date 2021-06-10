@@ -12,12 +12,16 @@
 
 ### Connect with me:
 
-<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCZXeBGGROZG8V6GIhQdGSwg" /> <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
+</a>
+<a href="https://www.instagram.com/shu_ubb/" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-<a href="https://www.linkedin.com/in/shubham-kumar-42957a134/" /> 
+</a>
+<a href="https://www.linkedin.com/in/shubham-kumar-42957a134/" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
-<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+<a href="https://twitter.com/shubham406" /> <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+</a>
 
 <br />
 

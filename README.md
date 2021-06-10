@@ -1,11 +1,10 @@
 ### 'NAMASTE 🙏🏻', I'm Shubham Kumar
 
-
-- 🔭 Upcoming Masters student 
+- 🔭 Upcoming Masters student
 - 🌱 I’m currently learning everything
-- 👯 hope to connect with you in a more humble way! 
+- 👯 hope to connect with you in a more humble way!
 - 🥅 2021 Goals: Get Advance in the field of Data Science
-- ⚡ Elixir : My pup and my Guitar 
+- ⚡ Elixir : My pup and my Guitar
 
 ### Spotify Playing 🎧
 
@@ -15,12 +14,12 @@
 
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/shubham-kumar-42957a134/" /> 
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+</a>
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 
-
 <br />
-
 
 ### Languages and Tools:
 
@@ -38,7 +37,6 @@
 <br />
 <br />
 
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -47,5 +45,3 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...]
-
-

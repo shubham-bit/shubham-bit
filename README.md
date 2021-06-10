@@ -15,7 +15,7 @@
 
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />(https://www.linkedin.com/in/shubham-kumar-42957a134/)
 <img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 
 
